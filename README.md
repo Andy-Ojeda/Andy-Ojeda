@@ -24,20 +24,20 @@ Mi objetivo es seguir aprendiendo, creciendo y contribuyendo al mundo tech. Esto
 
 ## Último Proyecto 🚀
 
-Estoy emocionado de compartir detalles sobre mi último proyecto: [Connectyfi](https://connectify-front-ruby.vercel.app/).
+Estoy emocionado de compartir detalles sobre mi último proyecto: [Connectify](https://connectify-front-ruby.vercel.app/).
 
 
 ### Algo sobre mi..
 
-🔭 Actualmente estoy trabajado en la creacion de una aplicacion WEB para Psicologo
+🔭 Actualmente estoy trabajado en la creacion de una aplicacion WEB para colaboración entre desarrolladores.
 
-🌱 Estoy aprendiendo actualmente React Native
+🌱 Estoy aprendiendo actualmente Cobol
 
 💬 Pregúntame acerca de mis experiencias en desarrollo web, mis proyectos favoritos con tecnologías como React, Node.js y MongoDB. Estoy aquí para compartir conocimientos y aprender juntos. ¡Disfruto de las conversaciones tecnológicas! 🔍🚀
 
-⚡ Dato curioso: En mi tiempo libre me gusta de pasar tiempo con mi familia jugando a distintos deportes... soy amante a casi cualquier deporte igual que mi hijo. ☕✨
+⚡ Dato curioso: En mi tiempo libre me gusta hacer desarrollos de robótica o solo programar mi robot para que haga diferentes bailes. ☕✨
 
-📫 Cómo contactarme: martinjiro22@gmail.com
+📫 Cómo contactarme: tuar_a@hotmail.com
 
 ---
 
@@ -47,15 +47,15 @@ Estoy emocionado de compartir detalles sobre mi último proyecto: [Connectyfi](h
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinlamacchia" alt="martinlamacchia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andy-Ojeda" alt="andyOjeda" /></a> </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinlamacchia&show_icons=true&locale=en&layout=compact" alt="martinlamacchia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andy-Ojeda&show_icons=true&locale=en&layout=compact" alt="andyOjeda" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinlamacchia&show_icons=true&locale=en" alt="martinlamacchia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy-Ojeda&show_icons=true&locale=en" alt="andyOjeda" /></p>
 
 
 <!-- Links -->
