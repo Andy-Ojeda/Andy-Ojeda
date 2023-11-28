@@ -1,16 +1,24 @@
 <div align="center">
-### Hola soy [Andy Ojeda][website] 👋
+<img src="https://komarev.com/ghpvc/?username=martinlamacchia&label=Profile%20views&color=0e75b6&style=flat" alt="andresojeda" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinlamacchia&label=Profile%20views&color=0e75b6&style=flat" alt="martinlamacchia" /> </p>
+ <h1>Hola, soy Andy Ojeda 👋</h1>
 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/martin-lamacchia-a1622726b/)
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/andr%C3%A9s-norberto-ojeda-604654135/)
 
-<img src="https://github.com/MartinLamacchia/assets-GitHub-Profile/raw/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Descripción de la imagen" width="100%" height="250">
 
+<img src="http://imgfz.com/i/FIHvgpW.png" alt="Texto alternativo" style="max-width: 70%;">
 
 ---
 
-🚀 Apasionado por el desarrollo Full Stack, mi enfoque se centra en crear experiencias web excepcionales. Con habilidades sólidas en React para el frontend y Node.js para el backend, diseño soluciones robustas utilizando tecnologías como JavaScript, MongoDB y otras herramientas de vanguardia. 💻 ¡Únete a mí en el viaje de la innovación tecnológica y la creación de software que marque la diferencia! 🌐✨
+🚀Desde mi infancia, he estado inmerso en el fascinante mundo de la tecnología, llevando a cabo proyectos ambiciosos que van desde la creación de una batería MIDI portátil hasta la construcción de mis propios robots con Arduino. Con 18 años de experiencia en automatización y robótica en el ámbito industrial, he perseguido mi pasión por la tecnología desde temprana edad.
+
+Ahora, estoy emocionado de fusionar mis dos grandes amores: el desarrollo Full Stack y la robótica. Cada proyecto que emprendo es una oportunidad para combinar la creatividad con la precisión técnica, buscando soluciones innovadoras.
+
+Mi objetivo es seguir aprendiendo, creciendo y contribuyendo al mundo tech. Estoy emocionado por las oportunidades que el futuro tiene reservadas y ansioso por encontrar un nuevo desafío profesional donde pueda aplicar y expandir mis habilidades.
+
+¡Conéctate conmigo y exploremos juntos el emocionante universo de la tecnología!
+
+
 
 ---
 
